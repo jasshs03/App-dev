@@ -5,3 +5,12 @@ My first repository
   "lastName": "Burguete",
   "age": 20
 }
+//NEW DEVELOPER ADDED
+
+My first repository
+{
+  "firstName": "Juan",
+  "lastName": "Santos",
+  "age": 25
+}
+
